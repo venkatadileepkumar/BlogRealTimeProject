@@ -84,11 +84,11 @@ DATABASES = {
 
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': 'localhost',
+        'HOST': 'chintu04.mysql.pythonanywhere-services.com',
         'PORT': '3306',  
-        'NAME': 'blogdb',
-        'USER': 'root',
-        'PASSWORD': 'root',
+        'NAME': 'chintu04$default',
+        'USER': 'chintu04',
+        'PASSWORD': 'root@123',
     }
 }
 
