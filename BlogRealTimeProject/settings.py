@@ -85,7 +85,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'HOST': 'chintu04.mysql.pythonanywhere-services.com',
-        'PORT': '3306',  
+        'PORT': '',  
         'NAME': 'chintu04$default',
         'USER': 'chintu04',
         'PASSWORD': 'root@123',
